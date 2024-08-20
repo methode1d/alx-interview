@@ -1,4 +1,10 @@
-):
+#!/usr/bin/python3
+"""
+0-UTF-8 Validation
+"""
+
+
+def validUTF8(data):
     """
     Data: a list of integers
     Return: True if data is a valid UTF-8
